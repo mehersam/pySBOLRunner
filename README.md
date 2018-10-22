@@ -8,6 +8,7 @@ pySBOLRunner is the test runner that tests the [pySBOLRunner](https://github.com
 2. [Setup](https://help.github.com/articles/set-up-git) Git on your machine.
 3. Follow instructions on the [SBOLTestRunners](https://github.com/mehersam/SBOLTestRunners) Github repository to retrieve individual test runners.
 4. [Download](https://www.python.org/downloads/) Python.
+5. [Download](https://github.com/SynBioDex/pySBOL) and follow instructions to setup pySBOL.
 
 ### Using the pySBOLRunner
 
